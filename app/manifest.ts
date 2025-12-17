@@ -3,18 +3,18 @@ import { personalInfo } from "@/lib/data";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: `${personalInfo.name} - Front-End Developer Portfolio`,
-    short_name: "Hamdi Dev",
+    name: `${personalInfo.name} - Frontend Developer Portfolio`,
+    short_name: "Abdalrahman",
     description:
-      "Professional Front-End Developer specialized in React.js, Next.js, and modern web technologies",
+      "Frontend Developer specialized in React.js, Angular, and modern web technologies",
     start_url: "/",
     display: "standalone",
-    background_color: "#0a0a0a",
-    theme_color: "#3b82f6",
+    background_color: "#1a1a1a",
+    theme_color: "#FEF418",
     icons: [
       {
-        src: "/favicon.png",
-        sizes: "32x32 64x64 128x128 192x192 512x512",
+        src: "/landing.png",
+        sizes: "192x192 512x512",
         type: "image/png",
       },
     ],

@@ -34,8 +34,8 @@ Personal portfolio website built with Next.js, React, TypeScript, and Tailwind C
 **Abdalrahman Hosny** - Frontend Developer
 
 - Portfolio: [protfilo-ruddy.vercel.app](https://protfilo-ruddy.vercel.app)
-- GitHub: [@abdalrahmanhosny](https://github.com/abdalrahmanhosny)
-- LinkedIn: [abdalrahmanhosny](https://linkedin.com/in/abdalrahmanhosny)
+- GitHub: [@Abdalrahman-hosny](https://github.com/Abdalrahman-hosny)
+- LinkedIn: [abdalrahaman-hosny-9aaa26264](https://www.linkedin.com/in/abdalrahaman-hosny-9aaa26264/)
 - Email: abdalrahmanhosny2368@gmail.com
 
 ## 📝 License
