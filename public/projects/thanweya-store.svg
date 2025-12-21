@@ -1,0 +1,64 @@
+<svg width="800" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dark Background -->
+  <rect width="800" height="450" fill="#000000"/>
+  
+  <!-- Top Bar -->
+  <rect y="0" width="800" height="50" fill="#0a0a0a"/>
+  
+  <!-- Navigation Bar -->
+  <rect y="50" width="800" height="70" fill="#000000"/>
+  
+  <!-- Main Content Container -->
+  <rect x="0" y="120" width="800" height="330" fill="#000000"/>
+  
+  <!-- Left Column - Image Section -->
+  <rect x="40" y="140" width="360" height="290" rx="25" fill="#1a1a1a"/>
+  <rect x="60" y="160" width="320" height="250" rx="20" fill="#2a2a2a"/>
+  
+  <!-- Book Reading Illustration -->
+  <rect x="100" y="200" width="240" height="180" rx="15" fill="#3a3a3a"/>
+  <rect x="120" y="220" width="200" height="140" rx="10" fill="#4a4a4a"/>
+  
+  <!-- Study Books Label -->
+  <rect x="80" y="380" width="280" height="40" rx="8" fill="#1a1a1a"/>
+  <text x="220" y="405" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">الكتب الدراسية</text>
+  
+  <!-- Right Column - Text Content -->
+  <text x="450" y="180" font-family="Arial, sans-serif" font-size="56" font-weight="bold" fill="#ffffff">ثانوية استور</text>
+  
+  <!-- Description Text -->
+  <text x="450" y="230" font-family="Arial, sans-serif" font-size="18" fill="#cccccc" width="320">
+    <tspan x="450" dy="0">مش بس كل عندنا ، لكن هنا</tspan>
+    <tspan x="450" dy="25">هتلاقي كل احتياجاتك هنا</tspan>
+    <tspan x="450" dy="25">و هنساعدك في كل حاجة</tspan>
+  </text>
+  
+  <!-- CTA Button -->
+  <rect x="450" y="320" width="220" height="55" rx="10" fill="#dc2626"/>
+  <text x="560" y="355" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">اطلب الآن</text>
+  
+  <!-- Social Media Icons (Top Left) -->
+  <circle cx="60" cy="25" r="12" fill="#ff0050"/>
+  <circle cx="90" cy="25" r="12" fill="url(#instagramGradient)"/>
+  <circle cx="120" cy="25" r="12" fill="#0088cc"/>
+  <circle cx="150" cy="25" r="12" fill="#25d366"/>
+  <circle cx="180" cy="25" r="12" fill="#1877f2"/>
+  
+  <!-- Gradient Definition -->
+  <defs>
+    <linearGradient id="instagramGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#833ab4;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#fd1d1d;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fcb045;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Navigation Links -->
+  <text x="500" y="85" font-family="Arial, sans-serif" font-size="16" fill="#ffffff">الرئيسية</text>
+  <text x="580" y="85" font-family="Arial, sans-serif" font-size="16" fill="#cccccc">متجر الكتب</text>
+  <text x="660" y="85" font-family="Arial, sans-serif" font-size="16" fill="#cccccc">من نحن</text>
+  
+  <!-- Login Button -->
+  <rect x="40" y="65" width="140" height="40" rx="8" fill="#dc2626"/>
+  <text x="110" y="88" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">تسجيل الدخول</text>
+</svg>

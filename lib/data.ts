@@ -64,6 +64,17 @@ export const skills = {
 
 export const projects = [
   {
+    title: "Thanweya Store",
+    description:
+      "An educational e-commerce platform for secondary school books and study materials. Features a modern dark-themed UI, shopping cart functionality, teacher codes system, and seamless user experience for students and educators.",
+    tech: ["React", "Bootstrap", "CSS", "JavaScript"],
+    github: "https://github.com/Abdalrahman-hosny/bookStore.git",
+    demo: "https://thanwiastore.com/",
+    image: "/projects/thanweya-store.svg",
+    details:
+      "An educational e-commerce platform for secondary school books and study materials. Features a modern dark-themed UI with responsive design, shopping cart functionality, teacher codes system, social media integration, and seamless user experience for students and educators. Includes e-commerce features, teacher codes, and modern UI/UX.",
+  },
+  {
     title: "Mashoura",
     description:
       "A modern consulting platform built with React, featuring a beautiful UI with dark gradient backgrounds, responsive design, and seamless user experience.",
